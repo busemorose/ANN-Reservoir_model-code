@@ -21,7 +21,7 @@ This repository contains the following elements:
 	-	Code for each individual site (only slight differences between the files)
 	-	Dummy data files to illustrate the input data structure
 
-# Workflow
+# Workflows
 
 ## Snow routine
 
@@ -72,7 +72,7 @@ the number of iterations, the maximum time, and other options. The
 `Save` button allows to save the new modifications and to get a new
 KarstMod file.
 
-# ANNs
+## ANNs
 
 1D-Convolutional Neural Networks for karst spring discharge modeling. For details please see the according publication.
 
@@ -92,7 +92,7 @@ Download KarstMod: <https://sokarst.org/en/softwares-en/karstmod-en/>
 Download KarstMod User manual:
 <https://hal.archives-ouvertes.fr/hal-01832693>
 
-## References
+# References
 
 Chen, Z., Hartmann, A., Wagener, T., Goldscheider, N., 2018. Dynamics of
 water fluxes and storages in an Alpine karst catchment under current and
