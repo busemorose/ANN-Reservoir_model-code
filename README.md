@@ -14,6 +14,8 @@ This repository contains the following elements:
     -   KarstMod files for each studied system
     -   R script for performing the snow routine
 -   ANN model code
+	-	Code for each individual site (only slight differences between the files)
+	-	Dummy data files to illustrate the input data structure
 
 # Workflow
 
@@ -65,6 +67,13 @@ It is possible to modify the model parameters, the objective function,
 the number of iterations, the maximum time, and other options. The
 `Save` button allows to save the new modifications and to get a new
 KarstMod file.
+
+# ANNs
+
+1D-Convolutional Neural Networks for karst spring discharge modeling. For details please see the according publication.
+
+Dependencies: Python 3.8, Tensorflow 2.7, BayesianOptimization 1.2, Numpy 1.21, Pandas 1.4, Scipy 1.7, Scikit-learn 1.0, Matplotlib 3.5
+
 
 # Resources
 
