@@ -6,7 +6,8 @@ Guillaume Cinkus, Andreas Wunsch, Naomi Mazzilli, Tanja Liesch, Zhao
 Chen, Nataša Ravbar, Joanna Doummar, Jaime Fernández-Ortega, Juan
 Antonio Barberá, Bartolomé Andreo, Nico Goldscheider and Hervé Jourde
 
-Author OrcIDs:  
+Author OrcIDs:
+Guillaume Cinkus []()
 Andreas Wunsch [0000-0002-0585-9549](https://orcid.org/0000-0002-0585-9549)
 
 # Description
@@ -75,7 +76,7 @@ KarstMod file.
 
 1D-Convolutional Neural Networks for karst spring discharge modeling. For details please see the according publication.
 
-Dependencies: Python 3.8, Tensorflow 2.7, BayesianOptimization 1.2, Numpy 1.21, Pandas 1.4, Scipy 1.7, Scikit-learn 1.0, Matplotlib 3.5
+Dependencies: Python 3.8, [Tensorflow 2.7](https://www.tensorflow.org/), [BayesianOptimization 1.2](https://github.com/fmfn/BayesianOptimization), [Numpy 1.21](https://numpy.org/), [Pandas 1.4](https://pandas.pydata.org/), [Scipy 1.7](https://scipy.org/), [Scikit-learn 1.0](https://scikit-learn.org/stable/), [Matplotlib 3.5](https://matplotlib.org/)
 
 
 # Resources
