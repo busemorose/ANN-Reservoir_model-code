@@ -49,7 +49,7 @@ series.**
 
 ## KarstMod
 
-<img src="data/karstmod.png" width="70" />
+<img src="miscellaneous/karstmod.png" width="70" />
 
 Information on the KarstMod platform can be found in the section 3.2 of
 the manuscript. The main workflow is:
