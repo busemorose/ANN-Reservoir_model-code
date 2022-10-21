@@ -1,0 +1,7 @@
+date;P;Qobs;Zobs;Qpump;Tmin;Tmax;Tmean
+2008-10-21;nan;nan;nan;nan;nan;nan;nan
+.
+.
+.
+.
+2020-12-30;nan;nan;nan;nan;nan;nan;nan

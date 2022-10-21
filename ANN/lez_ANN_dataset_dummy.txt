@@ -1,0 +1,7 @@
+date;Qpump;Qobs;Zobs;AET_mm;precipitation_mm;Tmean_prades;SR_precipitation;RHmax_percent;RHmax_hour_min;RHmin_percent;RHmin_hour_min;Tmax_prades;Tmax_prades_hour_min;Tmin_prades;Tmin_prades_hour_min;u10_ms
+2008-10-21;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan
+.
+.
+.
+.
+2018-12-30;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan

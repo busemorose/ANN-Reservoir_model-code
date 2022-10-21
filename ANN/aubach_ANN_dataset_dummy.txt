@@ -1,0 +1,7 @@
+date;Qobs;P_WalmHorn;T_WalmHorn;WLSR_WalmHorn;P_Diedamskopf;T_Diedamskopf;WLSR_Diedamskopf;P_Oberstdorf;T_Oberstdorf;WLSR_Oberstdorf;PET_WalmHorn;PET_Oberstdorf
+2012-11-20 10:00:00;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan
+.
+.
+.
+.
+2020-10-31 23:00:00;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan

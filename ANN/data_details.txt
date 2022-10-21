@@ -1,0 +1,94 @@
+# Aubach
+
+date: Date
+Qobs: Observed discharge
+P_WalmHorn: Precipitation at WalmHorn station
+T_WalmHorn: Temperature at WalmHorn station
+WLSR_WalmHorn: Water Left Snow Routine at WalmHorm station
+P_Diedamskopf: Precipitation at Diedamskopf station
+T_Diedamskopf: Temperature at Diedamskopf station
+WLSR_Diedamskopf: Water Left Snow Routine at Diedamskopf station
+P_Oberstdorf: Precipitation at Oberstdorf station
+T_Oberstdorf: Temperature at Oberstdorf station
+WLSR_Oberstdorf: Water Left Snow Routine at Oberstdorf station
+PET_WalmHorn: Potential Evapotranspiration at WalmHorn station
+PET_Oberstdorf: Potential Evapotranspiration at Oberstdorf station
+
+# Gato Cave
+
+date: Date
+Qobs: Observed discharge
+P: Precipitation
+Tmax: Maximum temperature
+Tmin: Minimum temperature
+Tmed: Median temperature
+THORNTHWAITE: Potential evapotranspiration estimated with Thornthwaite method
+HARGREAVES: Potential evapotranspiration estimated with Hargreaves method
+BLANEY-CRIDDLE: Potential evapotranspiration estimated with Blaney-Criddle method
+
+# Lez
+
+date: Date
+Qpump: Pumped discharge
+Qobs: Observed discharge
+Zobs: Water level
+AET_mm: Actual Evapotranspiration at Puéchabon
+precipitation_mm: Precipitation on Lez catchment (Thiessen interpolation between 4 stations)
+Tmean_prades: Mean temperature at Prades-le-Lez
+SR_precipitation: Water Left Snow Routine on Lez catchment (based on "precipitation_mm")
+RHmax_percent: Maximum relative humidity at Prades-le-Lez
+RHmax_hour_min: Time of RHmax in hourmin at Prades-le-Lez
+RHmin_percent: Minimum relative humidity at Prades-le-Lez
+RHmin_hour_min: Time of RHmin in hourmin at Prades-le-Lez
+Tmax_prades: Maximum temperature at Prades-le-Lez
+Tmax_prades_hour_min: Time of Tmax at Prades-le-Lez
+Tmin_prades: Minimum temperature at Prades-le-Lez
+Tmin_prades_hour_min: Time of Tmin at Prades-le-Lez
+u10_ms: Wind speed at 10 meters of altitude at Prades-le-Lez
+
+# Qachqouch
+
+date: Date
+Qobs: Observed discharge
+pet: Potential evapotranspiration
+Tmean_950: Mean temperature at 950m station
+precipitation_950: Precipitation at 950m station
+precipitation_1750: Precipitation at 1750m station
+Tmin_950: Minimum temperature at 950m station
+Tmax_950: Maximum temperature at 950m station
+Tmean_1850: Mean temperature at 1850m station
+Tmin_1850: Minimum temperature at 1850m station
+Tmax_1850: Maximum temperature at 1850m station
+Relative Humidity avg_950: Mean relative humidity at 950m station
+wind speed avg_950: Mean wind speed at 950m station
+total solar radiation_950: Total solar radiation at 950m station
+SolarRad_kWm2_Avg_1750: Mean solar radiation at 1750m station
+SolarRad_MJm2_Tot_1750: Total solar radiation at 1750m station
+precip_thiessen: Precipitation on Qachqouch catchment (Thiessen interpolation between 950 and 1750 stations)
+SR_precipitation: Water Left Snow Routine on Qachqouch catchment (based on "precip_thiessen")
+
+# Unica
+
+date: Date
+Qobs: Observed discharge
+PET: Potential evapotranspiration at Postojna station
+T: T [° C]: Mean temperature at Postojna station
+rH: rH [%]: Mean relative humidity at Postojna station
+P_postojna: precip_postojna: Precipitation at Postojna station
+S_postojna: snow_cover_height_postojna: Snow cover height at Postojna station
+nS_postojna: height_new_snow_postojna: Height of new snow at Postojna station
+P_cerknica: precip_cerknica: Precipitation at Cerknica station
+S_cerknica: snow_cover_height_cerknica: Snow cover height at Cerknica station
+nS_cerknica: height_new_snow_cerknica: Height of new snow at Cerknica station
+P_thiessen: precip_thiessen: Precipitation on Unica catchment (Thiessen interpolation between Postojna and Cerknica stations)
+SR_precip: SR_precipitation: Water Left Snow Routine on Unica catchment (based on "precip_thiessen")
+
+
+
+
+
+
+
+
+
+

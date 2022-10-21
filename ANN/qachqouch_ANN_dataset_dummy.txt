@@ -1,0 +1,7 @@
+date;Qobs;pet;Tmean_950;precipitation_950;precipitation_1750;Tmin_950;Tmax_950;Tmean_1850;Tmin_1850;Tmax_1850;Relative Humidity avg_950;wind speed avg_950;total solar radiation_950;SolarRad_kWm2_Avg_1750;SolarRad_MJm2_Tot_1750;precip_thiessen;SR_precipitation
+2015-09-06;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan
+.
+.
+.
+.
+2020-02-05;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan;nan

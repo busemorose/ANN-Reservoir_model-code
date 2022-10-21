@@ -1,0 +1,7 @@
+date;Qobs;P;Tmax;Tmin;Tmed;THORNTHWAITE;HARGREAVES;BLANEY-CRIDDLE
+1963-10-02;nan;nan;nan;nan;nan;nan;nan;nan
+.
+.
+.
+.
+2015-04-29;nan;nan;nan;nan;nan;nan;nan;nan
