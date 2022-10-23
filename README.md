@@ -6,9 +6,20 @@ Guillaume Cinkus, Andreas Wunsch, Naomi Mazzilli, Tanja Liesch, Zhao
 Chen, Nataša Ravbar, Joanna Doummar, Jaime Fernández-Ortega, Juan
 Antonio Barberá, Bartolomé Andreo, Nico Goldscheider and Hervé Jourde
 
-Author OrcIDs:  
-Guillaume Cinkus []()  
-Andreas Wunsch [0000-0002-0585-9549](https://orcid.org/0000-0002-0585-9549)  
+Author ORCIDs:
+
+- Guillaume Cinkus [0000-0002-2877-6551](https://orcid.org/0000-0002-2877-6551)  
+- Andreas Wunsch [0000-0002-0585-9549](https://orcid.org/0000-0002-0585-9549)  
+- Naomi Mazzilli [0000-0002-9145-5160](https://orcid.org/0000-0002-9145-5160)
+- Tanja Liesch [0000-0001-8648-5333](https://orcid.org/0000-0001-8648-5333)
+- Zhao Chen [0000-0003-0076-7079](https://orcid.org/0000-0003-0076-7079)
+- Nataša Ravbar [0000-0002-0160-1460](https://orcid.org/0000-0002-0160-1460)
+- Joanna Doummar [0000-0001-6146-1917](https://orcid.org/0000-0001-6146-1917)
+- Jaime Fernández-Ortega [0000-0003-0183-3015](https://orcid.org/0000-0003-0183-3015)
+- Juan Antonio Barberá [0000-0003-3379-0953](https://orcid.org/0000-0003-3379-0953)
+- Bartolomé Andreo [0000-0002-3769-7329](https://orcid.org/0000-0002-3769-7329)
+- Nico Goldscheider [0000-0002-8428-5001](https://orcid.org/0000-0002-8428-5001)
+- Hervé Jourde [0000-0001-7124-4879](https://orcid.org/0000-0001-7124-4879)
 
 # Description
 
