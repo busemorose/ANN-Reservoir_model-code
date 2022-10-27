@@ -41,7 +41,7 @@ The snow routine is detailed in the appendix D of the manuscript. The routine is
 knitr::include_graphics("data/karstmod.png")
 ```
 
-Information on the KarstMod platform can be found in the section 3.2 of the manuscript. The main workflow is:
+Information on the KarstMod platform (Mazzilli et al., 2019b) can be found in the section 3.2 of the manuscript. The main workflow is:
 
 1. Prepare the input data
 2. Open the appropriate KarstMod file (if needed)
@@ -54,7 +54,7 @@ It is possible to modify the model parameters, the objective function, the numbe
 
 # Resources
 
-For more details about the KarstMod platform, please refer to the User manual provided below.
+For more details about the KarstMod platform, please refer to the User manual provided below (Mazzilli and Bertin, 2019a).
 
 For more details about the hydrological models, please refer to the section 3 of the manuscript.
 
@@ -64,6 +64,13 @@ Download KarstMod User manual: https://hal.archives-ouvertes.fr/hal-01832693
 
 ## References
 
-Chen, Z., Hartmann, A., Wagener, T., Goldscheider, N., 2018. Dynamics of water fluxes and storages in an Alpine karst catchment under current and potential future climate conditions. Hydrology and Earth System Sciences 22, 3807–3823. https://doi.org/10.5194/hess-22-3807-2018
+Chen, Z., Hartmann, A., Wagener, T., and Goldscheider, N.: Dynamics of water fluxes and storages in an Alpine karst catchment under current and potential future climate conditions, Hydrol. Earth Syst. Sci., 22, 3807–3823, https://doi.org/10.5194/hess-22-3807-2018, 2018.
 
+Hock, R.: A distributed temperature-index ice- and snowmelt model including potential direct solar radiation, J. Glaciol., 45, 101–111, https://doi.org/10.3189/S0022143000003087, 1999.
+
+Mazzilli, N. and Bertin, D.: KarstMod User Guide - version 2.2, hal-01832693, 103927, 2019a.
+
+Mazzilli, N., Guinot, V., Jourde, H., Lecoq, N., Labat, D., Arfib, B., Baudement, C., Danquigny, C., Soglio, L. D., and Bertin, D.: KarstMod: A modelling platform for rainfall - discharge analysis and modelling dedicated to karst systems, Environ. Model. Softw., 122, 103927, https://doi.org/10.1016/j.envsoft.2017.03.015, 2019b.
+
+Pianosi, F., Sarrazin, F., and Wagener, T.: A Matlab toolbox for Global Sensitivity Analysis, Environmental Modelling & Software, 70, 80–85, https://doi.org/10.1016/j.envsoft.2015.04.009, 2015.
 
