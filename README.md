@@ -6,6 +6,10 @@ Guillaume Cinkus, Andreas Wunsch, Naomi Mazzilli, Tanja Liesch, Zhao
 Chen, Nataša Ravbar, Joanna Doummar, Jaime Fernández-Ortega, Juan
 Antonio Barberá, Bartolomé Andreo, Nico Goldscheider and Hervé Jourde
 
+Preprint:
+
+Cinkus, G., Wunsch, A., Mazzilli, N., Liesch, T., Chen, Z., Ravbar, N., Doummar, J., Fernández-Ortega, J., Barberá, J. A., Andreo, B., Goldscheider, N., and Jourde, H.: Comparison of artificial neural networks and reservoir models for simulating karst spring discharge on five test sites in the Alpine and Mediterranean regions, Hydrol. Earth Syst. Sci., 1–41, https://doi.org/10.5194/hess-2022-365, 2022.
+
 Author ORCIDs:
 
 - Guillaume Cinkus [0000-0002-2877-6551](https://orcid.org/0000-0002-2877-6551)  
