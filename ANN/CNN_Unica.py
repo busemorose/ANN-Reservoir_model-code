@@ -435,9 +435,9 @@ with tf.device("/gpu:0"): # or cpu
         'patience': 20,
         'learning_rate': 1e-3,
         'verbose': 1,
-        'stopset_start': pd.to_datetime('01102006', format='%d%m%Y'),
-        'optset_start': pd.to_datetime('01102008', format='%d%m%Y'),
-        'test_start': pd.to_datetime('01102010', format='%d%m%Y'),
+        'stopset_start': pd.to_datetime('29082012', format='%d%m%Y'),
+        'optset_start': pd.to_datetime('14102014', format='%d%m%Y'),
+        'test_start': pd.to_datetime('29092016', format='%d%m%Y'),
         'test_end': pd.to_datetime('31122018', format='%d%m%Y')
     }
     
